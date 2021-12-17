@@ -17,3 +17,13 @@
 | **XING** | [![Tobias Baus](https://img.shields.io/badge/Tobias_Baus-9cf?style=for-the-badge&logo=xing&logoColor=026466)](https://www.xing.com/profile/Tobias_Baus) |
 | **Discord** | [![thinkpace](https://img.shields.io/badge/thinkpace-9cf?style=for-the-badge&logo=discord)](https://discord.com/users/709829026922889279) |
 |  |  |
+
+# What I'm currently focusing on 🔍
+
+|  |
+|---|
+| ![GitLab](https://img.shields.io/badge/Learning\&Improving-GitLab-green?style=for-the-badge&logo=gitlab) |
+| ![Docker & Docker-Compose](https://img.shields.io/badge/Learning\&Improving-Docker&Docker--Compose-green?style=for-the-badge&logo=docker) |
+| ![Nginx](https://img.shields.io/badge/Learning\&Improving-Nginx-green?style=for-the-badge&logo=nginx) |
+| ![fail2ban](https://img.shields.io/badge/Learning\&Improving-fail2ban-green?style=for-the-badge&logo=nginx) |
+|  |
