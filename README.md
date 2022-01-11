@@ -24,7 +24,9 @@
 |  |
 |---|
 | ![GitLab](https://img.shields.io/badge/Learning\&Improving-GitLab-green?style=for-the-badge&logo=gitlab) |
+| ![Python](https://img.shields.io/badge/Learning\&Improving-Python-green?style=for-the-badge&logo=python) |
+| ![Flask](https://img.shields.io/badge/Learning\&Improving-Flask-green?style=for-the-badge&logo=flask) |
 | ![Docker & Docker-Compose](https://img.shields.io/badge/Learning\&Improving-Docker&Docker--Compose-green?style=for-the-badge&logo=docker) |
 | ![Nginx](https://img.shields.io/badge/Learning\&Improving-Nginx-green?style=for-the-badge&logo=nginx) |
-| ![fail2ban](https://img.shields.io/badge/Learning\&Improving-fail2ban-green?style=for-the-badge&logo=nginx) |
+| ![fail2ban](https://img.shields.io/badge/Learning\&Improving-fail2ban-green?style=for-the-badge) |
 |  |
