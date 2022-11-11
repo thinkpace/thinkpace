@@ -12,7 +12,7 @@
 
 |  |  |
 |---|---|
-| **Mastodon** | [![@thinkpace@social.saarland](https://img.shields.io/badge/@thinkpace@social.saarland-9cf?style=for-the-badge&logo=mastodon)](https://social.saarland/@thinkpace) |
+| **Mastodon** | [![@thinkpace@social.saarland](https://img.shields.io/badge/@thinkpace@social.saarland-9cf?style=for-the-badge&logo=mastodon)](https://social.saarland/@thinkpace)<!-- <a rel="me" href="https://social.saarland/@thinkpace">Mastodon</a> --> |
 | **Matrix** | ![@thinkpace:matrix.org](https://img.shields.io/badge/@thinkpace:matrix.org-9cf?style=for-the-badge&logo=matrix) |
 | **LinkedIn** | [![Tobias Baus](https://img.shields.io/badge/Tobias_Baus-9cf?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tobiasbaus/) |
 | **XING** | [![Tobias Baus](https://img.shields.io/badge/Tobias_Baus-9cf?style=for-the-badge&logo=xing&logoColor=026466)](https://www.xing.com/profile/Tobias_Baus) |
