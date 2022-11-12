@@ -21,4 +21,4 @@
 
 # What I'm doing at GitHub 🎓
 
-I'm here to learn and more or less all of my repos are covering this aspect. Please feel free to use my stuff, but most of it is probably not very helpful from a security, usability or quality perspective. Usually I'm looking at technology stacks to understand how they work and to play with them. Sometimes, the outcome might be a bit useful.
+I'm here to learn and more or less all of my repos are covering this aspect. Please feel free to use my stuff, but most of it is probably not very helpful from a security, usability or quality perspective. Usually I'm looking at technology stacks to understand how they work and to play with them. Sometimes, the outcome might be useful.
