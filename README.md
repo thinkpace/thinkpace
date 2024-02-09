@@ -12,8 +12,8 @@
 
 |  |  |
 |---|---|
-| **Website** | [TobiasBaus.de](https://tobiasbaus.de) |
-| **Mastodon** | [![@thinkpace@social.saarland](https://img.shields.io/badge/@thinkpace@social.saarland-9cf?style=for-the-badge&logo=mastodon)](https://social.saarland/@thinkpace) |
+| **Website** | [![TobiasBaus.de](https://img.shields.io/badge/tobiasbaus.de-9cf?style=for-the-badge&logoColor=026466)](https://tobiasbaus.de)|
+| **Mastodon** | [@thinkpace@social.saarland](https://social.saarland/@thinkpace) |
 | **Matrix** | @thinkpace:matrix.org |
 | **LinkedIn** | [![Tobias Baus](https://img.shields.io/badge/Tobias_Baus-9cf?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tobiasbaus/) |
 | **XING** | [![Tobias Baus](https://img.shields.io/badge/Tobias_Baus-9cf?style=for-the-badge&logo=xing&logoColor=026466)](https://www.xing.com/profile/Tobias_Baus) |
